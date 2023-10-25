@@ -1,11 +1,18 @@
 # Personal AI Assistant Micro Challenge
+
 ## What is a micro challenge?
 - A micro challenge is a task/challenge that is a small project of code that can be done in a certain amount of time. It can be any idea that comes to mind but has to specifically be innovative and promote learning in any way. It is important that the micro challenges have different difficulty levels because some people might be more experienced than others so there has to be variety in that way. Most challenges should be able to be completed within a couple of hours to 2 days.
+
+## Difficulty = ⭐️ ⭐️ ⭐️
+
 ## A breakdown of the micro challenge for Jarvis.
+
 ### What you will build:
 - The backend for a simple chatbot called Jarvis that can answer questions through natural language understanding. The frontend has been provided already to make things easier.
+
 ### How you will build it:
 - Follow the instructions below to get started.
+
 ### Duration:
 - 1 Day
   
